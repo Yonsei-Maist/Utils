@@ -1,0 +1,9 @@
+[submodule "voice-recognition"]
+	path = voice-recognition
+	url = https://github.com/Yonsei-Maist/voice-recognition.git
+[submodule "AndroidAccessoryWithPC"]
+	path = AndroidAccessoryWithPC
+	url = https://github.com/Yonsei-Maist/AndroidAccessoryWithPC.git
+[submodule "docker-util"]
+	path = docker-util
+	url = https://github.com/Yonsei-Maist/docker-util.git
